@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Konchil Song",
+    "rarity": "COMMON",
+    "texture": "konchilsong",
+    "description": "Енина - Кончил",
+    "creativeTab": {
+      "value": "CUSTOM:ESHKERETAB"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:eninakonchil"
+    },
+    "lengthInTicks": 999,
+    "analogOutput": 0
+  }
+}

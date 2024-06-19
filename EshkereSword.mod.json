@@ -1,0 +1,40 @@
+{
+  "_fv": 60,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "eshkereswordtexture",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Eshkere Sword",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:ESHKERETAB"
+    },
+    "harvestLevel": 0,
+    "efficiency": 3.5,
+    "attackSpeed": 100.0,
+    "enchantability": 255,
+    "damageVsEntity": 52.0,
+    "usageCount": 1488,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:EshkereItem"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "EshkereSwordProcedure"
+    }
+  }
+}

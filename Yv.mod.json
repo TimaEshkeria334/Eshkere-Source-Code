@@ -1,0 +1,37 @@
+{
+  "_fv": 60,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Pickaxe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "img-20230318-wa0006",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Yv",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:ESHKERETAB"
+    },
+    "harvestLevel": 1,
+    "efficiency": 9993.0,
+    "attackSpeed": 100.0,
+    "enchantability": 99999,
+    "damageVsEntity": 100.0,
+    "usageCount": 999,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:EshkerePickaxe"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

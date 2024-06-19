@@ -1,0 +1,37 @@
+{
+  "_fv": 60,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Pickaxe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "pisun",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Eshkere Pickaxe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:ESHKERETAB"
+    },
+    "harvestLevel": 1,
+    "efficiency": 38.0,
+    "attackSpeed": 100.0,
+    "enchantability": 57,
+    "damageVsEntity": 5.0,
+    "usageCount": 1488,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:EshkereItem"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
